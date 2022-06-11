@@ -18,6 +18,10 @@ bs4를 사용하여 웹 파싱 후 정보 가져오기<br>
 
 <br>
 
+___
+
+<br>
+
 JSON으로 추출한 데이터<br>
 
 <img width="800" alt="Screen Shot 2022-06-10 at 3 00 12 PM" src="https://user-images.githubusercontent.com/80025122/173186114-cf41d67b-4d75-4003-97cb-1328294de36e.png">
